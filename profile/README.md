@@ -1,12 +1,3 @@
-## Hi there 👋
+# :floppy_disk: Partagez simplement vos Java CLI Apps
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+L'organisation [Java CLI Apps](https://github.com/java-cli-apps) contient des templates permettant de commencer une application en utilisant ce qui a été présenté à la [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) le 9 janvier 2024 et qui sera présenté à [Devoxx France 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details).
