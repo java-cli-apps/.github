@@ -8,9 +8,8 @@ Ce talk sera présenté à [Devoxx France](https://www.devoxx.fr) le [17 Avril 2
 
 ## Paris JUG Academy
 
-### Vidéo
-
 [![Vidéo](images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
+[![Vidéo](../images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
 
 ### [Slides](https://java-cli-apps-yb11.github.io)
 
