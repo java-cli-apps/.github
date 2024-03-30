@@ -6,6 +6,12 @@ de la [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood
 
 Ce talk sera présenté à [Devoxx France](https://www.devoxx.fr) le [17 Avril 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details).
 
+<!-- TOC -->
+  * [Paris JUG Academy](#paris-jug-academy)
+  * [Devoxx France](#devoxx-france)
+  * [Exemples de code](#exemples-de-code)
+<!-- TOC -->
+
 ## Paris JUG Academy
 
 ### [![Vidéo](images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
