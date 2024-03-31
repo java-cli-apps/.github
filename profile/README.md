@@ -1,10 +1,13 @@
 # :floppy_disk: Partagez simplement vos Java CLI Apps
 
-L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemples et templates d'application de mon talk
-[« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT), [gagnant](https://twitter.com/parisjug/status/1745210477615985117)
-de la [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) le 9 Janvier 2024.
+L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemples et templates
+d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT).
 
-Ce talk sera présenté à [Devoxx France](https://www.devoxx.fr) le [17 Avril 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details).
+Ce talk a été le [gagnant](https://twitter.com/parisjug/status/1745210477615985117) de la
+[Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) 2024.
+
+Il sera également présenté à [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le
+[17 Avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) prochain.
 
 <!-- TOC -->
   * [Paris JUG Academy](#paris-jug-academy)
