@@ -52,8 +52,8 @@ Deux templates principaux sont fournis pour Java 22, un utilisant `make` et l'au
 
 De plus un troisième template existe pour les releases antérieures à Java 22.
 
-### [Template de CLI avec Java 22 et la JEP 458](https://github.com/java-cli-apps/basic-java-22-quickstart)
+### [CLI avec Java 22 et la JEP 458](https://github.com/java-cli-apps/basic-java-22-quickstart)
 
-### [Template de CLI avec Java 22, la JEP 458 et Gradle](https://github.com/java-cli-apps/java-22-quickstart)
+### [CLI avec Java 22, la JEP 458 et Gradle](https://github.com/java-cli-apps/java-22-quickstart)
 
-### [Template de CLI avec Java et la JEP 330 ](https://github.com/java-cli-apps/basic-java-quickstart)
+### [CLI avec Java et la JEP 330](https://github.com/java-cli-apps/basic-java-quickstart)
