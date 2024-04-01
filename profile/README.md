@@ -13,6 +13,7 @@ Il sera également présenté à [Devoxx France](https://mobile.devoxx.com/event
   * [Paris JUG Academy](#paris-jug-academy)
   * [Devoxx France](#devoxx-france)
   * [Exemples de code](#exemples-de-code)
+  * [Templates d'applications](#templates-dapplications)
 <!-- TOC -->
 
 ## Paris JUG Academy
@@ -42,3 +43,17 @@ qui permet de déclarer chaque classe dans un fichier séparé grâce à la [JEP
 Un exemple basique d'utilisation de [la JEP 458](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/jep-458/README.md)
 (Launch Multi-File Source-Code Programs) qui étend la [JEP 330](https://openjdk.org/jeps/330) (Launch Single-File Source-Code Programs)
 et permet de charger les classes utilisées par la classe lancée sur la ligne de commande.
+
+## Templates d'applications
+
+Ces templates GitHub sont des dépots qui peuvent servir de base à la création d'une application comme expliqué dans le talk.
+
+Deux templates principaux sont fournis pour Java 22, un utilisant `make` et l'autre utilisant `Gradle`.
+
+De plus un troisième template existe pour les releases antérieures à Java 22.
+
+### [Template de CLI avec Java 22 et la JEP 458](https://github.com/java-cli-apps/basic-java-22-quickstart)
+
+### [Template de CLI avec Java 22, la JEP 458 et Gradle](https://github.com/java-cli-apps/java-22-quickstart)
+
+### [Template de CLI avec Java et la JEP 330 ](https://github.com/java-cli-apps/basic-java-quickstart)
