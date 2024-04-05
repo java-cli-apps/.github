@@ -1,6 +1,6 @@
 # :floppy_disk: Partagez simplement vos Java CLI Apps
 
-L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemples et templates
+L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemple et templates
 d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT).
 
 Ce talk a été le [gagnant](https://twitter.com/parisjug/status/1745210477615985117) de la
