@@ -52,8 +52,26 @@ Deux templates principaux sont fournis pour Java 22, un utilisant `make` et l'au
 
 De plus un troisième template existe pour les releases antérieures à Java 22.
 
-### [CLI avec Java 22 et la JEP 458](https://github.com/java-cli-apps/basic-java-22-quickstart)
+### 1. CLI avec Java 22 et la JEP 458
 
-### [CLI avec Java 22, la JEP 458 et Gradle](https://github.com/java-cli-apps/java-22-quickstart)
+Le template [basic-java-22-quickstart](https://github.com/java-cli-apps/basic-java-22-quickstart) permet de démarrer
+une nouvelle application en commande ligne avec Java sans utiliser aucun système de build (autre que `make`).
 
-### [CLI avec Java et la JEP 330](https://github.com/java-cli-apps/basic-java-quickstart)
+Ce template nécessite d'utiliser Java 22, ou une version supérieure, car il utilise la [JEP 458](https://openjdk.org/jeps/458)
+qui permet de lancer plusieurs fichiers sources sans les compiler préalablement.
+
+### 2. CLI avec Java 22, la JEP 458 et Gradle
+
+Le template [java-22-quickstart](https://github.com/java-cli-apps/java-22-quickstart) permet de démarrer une nouvelle
+application en commande ligne avec Java et Gradle.
+
+Ce template nécessite d'utiliser Java 22, ou une version supérieure, car il utilise la [JEP 458](https://openjdk.org/jeps/458)
+qui permet de lancer plusieurs fichiers sources sans les compiler préalablement.
+
+### 3. CLI avec Java et la JEP 330
+
+Le template [basic-java-quickstart](https://github.com/java-cli-apps/basic-java-quickstart) permet de démarrer une
+nouvelle application en commande ligne avec Java sans utiliser aucun système de build (autre que `make`).
+
+Ce template nécessite d'utiliser Java 11, ou une version supérieure, car il utilise la [JEP 330](https://openjdk.org/jeps/330)
+qui permet de lancer un fichier source sans le compiler préalablement.
