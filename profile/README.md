@@ -67,7 +67,7 @@ une nouvelle application en commande ligne avec Java sans utiliser aucun systèm
 Le template [java-22-quickstart](https://github.com/java-cli-apps/java-22-quickstart) permet de démarrer une nouvelle
 application en commande ligne avec Java et Gradle.
 
-### Template Java >= 11
+### Template Java 11
 
 Le template [basic-java-quickstart](https://github.com/java-cli-apps/basic-java-quickstart) permet de démarrer une
 nouvelle application en commande ligne avec Java sans utiliser aucun système de build (autre que `make`).
