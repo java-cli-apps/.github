@@ -6,8 +6,8 @@ d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI App
 Ce talk a été le [gagnant](https://twitter.com/parisjug/status/1745210477615985117) de la
 [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) 2024.
 
-Il sera également présenté à [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le
-[17 Avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) prochain.
+Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le
+[17 Avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) dernier.
 
 <!-- TOC -->
   * [Paris JUG Academy](#paris-jug-academy)
@@ -20,11 +20,11 @@ Il sera également présenté à [Devoxx France](https://mobile.devoxx.com/event
 
 ### [![Vidéo](images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
 
-### [Slides](https://java-cli-apps-yb11.github.io)
-
 ## Devoxx France
 
-### [Lunch Talk](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details)
+### [Slides](https://java-cli-apps.github.io)
+
+### Vidéo - A VENIR
 
 ## Exemples de code
 
