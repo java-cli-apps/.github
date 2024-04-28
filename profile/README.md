@@ -7,7 +7,7 @@ Ce talk a été le [gagnant](https://twitter.com/parisjug/status/174521047761598
 [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) 2024.
 
 Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le
-[17 Avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) dernier.
+[17 avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) dernier.
 
 <!-- TOC -->
   * [Paris JUG Academy](#paris-jug-academy)
