@@ -29,9 +29,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ### [Slides](https://java-cli-apps.github.io)
 
-### Vidéo
-
-A venir.
+### [![Vidéo](images/video-devoxx-france.png)](https://www.youtube.com/watch?v=pSZ21WoUmWc)
 
 ## Templates d'applications
 
