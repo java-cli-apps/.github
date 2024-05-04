@@ -27,7 +27,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ## Devoxx France
 
-### [Slides](https://java-cli-apps.github.io)
+### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
 
 ### [![Vidéo](images/video-devoxx-france.png)](https://www.youtube.com/watch?v=pSZ21WoUmWc)
 
