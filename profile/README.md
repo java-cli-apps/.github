@@ -23,7 +23,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ## Paris JUG Academy
 
-### [![Vidéo](images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
+### [Vidéo](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
 
 ## Devoxx France
 
