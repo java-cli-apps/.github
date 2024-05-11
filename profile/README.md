@@ -16,9 +16,9 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
     * [Templates Java 22](#templates-java-22)
     * [Template Java 11](#template-java-11)
   * [Exemples de code](#exemples-de-code)
+    * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
     * [Exemple du talk](#exemple-du-talk)
     * [Exemple du talk avec Java 22](#exemple-du-talk-avec-java-22)
-    * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
 <!-- TOC -->
 
 ## Paris JUG Academy
