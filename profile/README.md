@@ -64,6 +64,12 @@ qui permet de lancer un fichier source sans le compiler préalablement.
 
 ## Exemples de code
 
+### Exemple d'utilisation de la JEP 458
+
+Un exemple basique d'utilisation de [la JEP 458](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/jep-458/README.md)
+(Launch Multi-File Source-Code Programs) qui étend la [JEP 330](https://openjdk.org/jeps/330) (Launch Single-File Source-Code Programs)
+et permet de charger les classes utilisées par la classe lancée sur la ligne de commande.
+
 ### Exemple du talk
 
 L'exemple de code du talk qui utilise [Java 21](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/generate-data-21/README.md)
@@ -71,11 +77,5 @@ et dans lequel tout le code source se trouve dans le même fichier.
 
 ### Exemple du talk avec Java 22
 
-Le même exemple avec [Java 22](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/generate-data-22/README.md)
-qui permet de déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](https://openjdk.org/jeps/458).
-
-### Exemple d'utilisation de la JEP 458
-
-Un exemple basique d'utilisation de [la JEP 458](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/jep-458/README.md)
-(Launch Multi-File Source-Code Programs) qui étend la [JEP 330](https://openjdk.org/jeps/330) (Launch Single-File Source-Code Programs)
-et permet de charger les classes utilisées par la classe lancée sur la ligne de commande.
+Le même exemple, mais utilisant [Java 22](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/generate-data-22/README.md)
+pour déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](https://openjdk.org/jeps/458).
