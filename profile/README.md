@@ -33,11 +33,11 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ## Templates d'applications
 
-Ces templates GitHub sont des dépots qui peuvent servir de base à la création d'une application comme expliqué dans le talk.
+Ces templates GitHub sont des dépots servant de base à la création d'une application comme expliqué dans le talk.
 
-Deux templates principaux sont fournis pour Java 22, un utilisant `make` et l'autre utilisant `Gradle`.
+Deux templates principaux sont fournis pour Java 22, l'un fonctionne avec `make` et l'autre utilise `Gradle`.
 
-De plus un troisième template existe pour les releases antérieures à Java 22.
+De plus un troisième template existe pour les releases antérieures à Java 22, et qui utilise `make`.
 
 ### Templates Java 22
 
