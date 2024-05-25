@@ -27,9 +27,11 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ## Devoxx France
 
-### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
+### Vidéo
 
 ### [![Vidéo](images/video-devoxx-france.png)](https://www.youtube.com/watch?v=pSZ21WoUmWc)
+
+### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
 
 ## Templates d'applications
 
