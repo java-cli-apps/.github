@@ -81,3 +81,7 @@ et dans lequel tout le code source se trouve dans le même fichier.
 
 Le même exemple, mais utilisant [Java 22](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/generate-data-22/README.md)
 pour déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](https://openjdk.org/jeps/458).
+
+## Contact
+
+[![LinkedIn](images/linkedin.ico)](https://www.linkedin.com/in/pyfourmond)
