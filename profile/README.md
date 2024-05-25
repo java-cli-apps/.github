@@ -85,3 +85,5 @@ pour déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](htt
 ## Contact
 
 [![LinkedIn](images/linkedin.ico)](https://www.linkedin.com/in/pyfourmond)
+
+[![Twitter / X](images/twitter.ico)](https://twitter.com/grumpyf0x48)
