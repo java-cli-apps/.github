@@ -19,6 +19,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
     * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
     * [Exemple du talk](#exemple-du-talk)
     * [Exemple du talk avec Java 22](#exemple-du-talk-avec-java-22)
+  * [Contact](#contact)
 <!-- TOC -->
 
 ## Paris JUG Academy
