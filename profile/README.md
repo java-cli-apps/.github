@@ -44,7 +44,7 @@ De plus un troisième template existe pour les releases antérieures à Java 22,
 
 ### Templates Java 22
 
-Ces templates nécessitent d'utiliser Java 22, ou une version supérieure, car ils utilisent la [JEP 458](https://openjdk.org/jeps/458)
+Ces templates nécessitent d'utiliser Java 22 ou une version supérieure car ils utilisent la [JEP 458](https://openjdk.org/jeps/458)
 qui permet de lancer plusieurs fichiers sources sans les compiler préalablement.
 
 #### Avec Java 22 et make
@@ -62,7 +62,7 @@ commande ligne en Java avec Gradle.
 Le template [basic-java-quickstart](https://github.com/java-cli-apps/basic-java-quickstart) permet de démarrer une
 nouvelle commande ligne en Java sans utiliser aucun système de build (autre que `make`).
 
-Ce template nécessite d'utiliser Java 11, ou une version supérieure, car il utilise la [JEP 330](https://openjdk.org/jeps/330)
+Ce template nécessite d'utiliser Java 11 ou une version supérieure car il utilise la [JEP 330](https://openjdk.org/jeps/330)
 qui permet de lancer un fichier source sans le compiler préalablement.
 
 ## Exemples de code
