@@ -62,12 +62,16 @@ qui permet de lancer plusieurs fichiers sources sans les compiler préalablement
 #### Avec Java 22 et make
 
 Le template [basic-java-22-quickstart](https://github.com/java-cli-apps/basic-java-22-quickstart) permet de démarrer
-une nouvelle commande ligne en Java sans utiliser aucun système de build (autre que `make`).
+une nouvelle commande ligne avec Java 22 sans utiliser aucun système de build (autre que `make`).
+
+![Utilisation du template Java 22 avec make](images/basic-java-22-quickstart.gif)
 
 #### Avec Java 22 et Gradle
 
 Le template [java-22-quickstart](https://github.com/java-cli-apps/java-22-quickstart) permet de démarrer une nouvelle
-commande ligne en Java avec Gradle.
+commande ligne avec Java 22 et Gradle.
+
+![Utilisation du template Java 22 avec Gradle](images/java-22-quickstart.gif)
 
 ### Template Java 11
 
