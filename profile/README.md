@@ -10,16 +10,17 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 [17 avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) dernier.
 
 <!-- TOC -->
-  * [Paris JUG Academy](#paris-jug-academy)
-  * [Devoxx France](#devoxx-france)
-  * [Templates d'applications](#templates-dapplications)
-    * [Templates Java 22](#templates-java-22)
-    * [Template Java 11](#template-java-11)
-  * [Exemples de code](#exemples-de-code)
-    * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
-    * [Exemple du talk](#exemple-du-talk)
-    * [Exemple du talk avec Java 22](#exemple-du-talk-avec-java-22)
-  * [Contact](#contact)
+* [Paris JUG Academy](#paris-jug-academy)
+* [Devoxx France](#devoxx-france)
+* [Templates d'applications](#templates-dapplications)
+  * [Template Java 23](#template-java-23)
+  * [Templates Java 22](#templates-java-22)
+  * [Template Java 11](#template-java-11)
+* [Exemples de code](#exemples-de-code)
+  * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
+  * [Exemple du talk](#exemple-du-talk)
+  * [Exemple du talk avec Java 22](#exemple-du-talk-avec-java-22)
+* [Contact](#contact)
 <!-- TOC -->
 
 ## Paris JUG Academy
@@ -38,9 +39,20 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
-Deux templates principaux sont fournis pour Java 22, l'un fonctionne avec `make` et l'autre utilise `Gradle`.
+Un premier template utilise Java 23 avec `make`.
 
-De plus un troisième template existe pour les releases antérieures à Java 22, et qui utilise `make`.
+Deux templates sont fournis pour Java 22, l'un fonctionne avec `make` et l'autre utilise `Gradle`.
+
+De plus un dernier template existe pour les releases antérieures à Java 22, et qui utilise `make`.
+
+### Template Java 23
+
+Le template [basic-java-23-quickstart](https://github.com/java-cli-apps/basic-java-23-quickstart) nécessite d'utiliser
+Java 23 ou une version supérieure car il utilise la [JEP 477](https://openjdk.org/jeps/477) qui simplifie la déclaration
+de la méthode `main` et permet d'utiliser les méthodes de la classe `java.io.IO` sans aucun import.
+
+Il utilise également la [JEP 458](https://openjdk.org/jeps/458) qui permet de lancer plusieurs fichiers sources sans les
+compiler préalablement.
 
 ### Templates Java 22
 
