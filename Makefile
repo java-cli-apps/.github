@@ -16,7 +16,7 @@ gif: $(GIF)
 cast/%.cast: cast/%.asc
 	MAKEFLAGS=--no-print-directory \
 	COMMENT="# " \
-	#$(RECORD) $<
+	$(RECORD) $<
 
 images/%.gif: cast/%.cast
 	$(CONVERT) $< $@
