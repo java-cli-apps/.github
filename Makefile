@@ -1,7 +1,7 @@
 THEME=solarized-light
 
 RECORD=asciinema-rec_script
-CONVERT=agg --no-loop --cols 132 --rows 32 --speed 2 --theme $(THEME)
+CONVERT=agg --no-loop --cols 132 --rows 32 --speed 1.5 --theme $(THEME)
 
 # CAST = cast/basic-java-23-quickstart.cast
 # GIF = images/basic-java-23-quickstart.gif
@@ -16,7 +16,7 @@ gif: $(GIF)
 cast/%.cast: cast/%.asc
 	MAKEFLAGS=--no-print-directory \
 	COMMENT="# " \
-	$(RECORD) $<
+	#$(RECORD) $<
 
 images/%.gif: cast/%.cast
 	$(CONVERT) $< $@
