@@ -1,4 +1,4 @@
-THEME=solarized-light
+THEME=solarized-dark
 
 RECORD=asciinema-rec_script
 CONVERT=agg --no-loop --cols 132 --rows 32 --speed 1.5 --theme $(THEME)
@@ -16,7 +16,7 @@ gif: $(GIF)
 cast/%.cast: cast/%.asc
 	MAKEFLAGS=--no-print-directory \
 	COMMENT="# " \
-	$(RECORD) $<
+	#$(RECORD) $<
 
 images/%.gif: cast/%.cast
 	$(CONVERT) $< $@
