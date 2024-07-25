@@ -54,6 +54,8 @@ de la méthode `main` et permet d'utiliser les méthodes de la classe `java.io.I
 Il utilise également la [JEP 458](https://openjdk.org/jeps/458) qui permet de lancer plusieurs fichiers sources sans les
 compiler préalablement.
 
+<a href="https://asciinema.org/a/669372" target="_blank"><img src="images/basic-java-23-quickstart.gif" /></a>
+
 ### Templates Java 22
 
 Ces templates nécessitent d'utiliser Java 22 ou une version supérieure car ils utilisent la [JEP 458](https://openjdk.org/jeps/458)
