@@ -39,20 +39,20 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
-Un premier template utilise Java 23 avec `make`.
-
-Deux templates sont fournis pour Java 22, l'un fonctionne avec `make` et l'autre utilise `Gradle`.
+Deux templates sont fournis pour Java 23, l'un fonctionne avec `make` et l'autre utilise `Gradle`.  Il en est de même
+pour Java 22.
 
 De plus un dernier template existe pour les releases antérieures à Java 22, et qui utilise `make`.
 
-### Template Java 23
+### Templates Java 23
 
-Le template [basic-java-23-quickstart](https://github.com/java-cli-apps/basic-java-23-quickstart) nécessite d'utiliser
-Java 23 ou une version supérieure car il utilise la [JEP 477](https://openjdk.org/jeps/477) qui simplifie la déclaration
-de la méthode `main` et permet d'utiliser les méthodes de la classe `java.io.IO` sans aucun import.
+Les templates [basic-java-23-quickstart](https://github.com/java-cli-apps/basic-java-23-quickstart) et
+[java-23-quickstart](https://github.com/java-cli-apps/java-23-quickstart) nécessitent d'utiliser Java 23 ou une version
+supérieure car ils utilisent la [JEP 477](https://openjdk.org/jeps/477) qui simplifie la déclaration de la méthode `main`,
+ne nécessite pas de déclaration de classe et permet d'utiliser les méthodes de la classe `java.io.IO` sans aucun import.
 
-Il utilise également la [JEP 458](https://openjdk.org/jeps/458) qui permet de lancer plusieurs fichiers sources sans les
-compiler préalablement.
+Ils utilisent également la [JEP 458](https://openjdk.org/jeps/458) qui permet de lancer plusieurs fichiers sources sans
+les compiler préalablement.
 
 <a href="https://asciinema.org/a/669372" target="_blank"><img src="images/basic-java-23-quickstart.gif" /></a>
 
