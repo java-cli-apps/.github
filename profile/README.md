@@ -13,7 +13,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 * [Paris JUG Academy](#paris-jug-academy)
 * [Devoxx France](#devoxx-france)
 * [Templates d'applications](#templates-dapplications)
-  * [Template Java 23](#template-java-23)
+  * [Templates Java 23](#templates-java-23)
   * [Templates Java 22](#templates-java-22)
   * [Template Java 11](#template-java-11)
 * [Exemples de code](#exemples-de-code)
