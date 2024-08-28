@@ -54,7 +54,13 @@ ne nécessite pas de déclaration de classe et permet d'utiliser les méthodes d
 Ils utilisent également la [JEP 458](https://openjdk.org/jeps/458) qui permet de lancer plusieurs fichiers sources sans
 les compiler préalablement.
 
+#### Avec Java 23 et make
+
 <a href="https://asciinema.org/a/669372" target="_blank"><img src="images/basic-java-23-quickstart.gif" /></a>
+
+#### Avec Java 23 et Gradle
+
+<a href="https://asciinema.org/a/673868" target="_blank"><img src="images/java-23-quickstart.gif" /></a>
 
 ### Templates Java 22
 
