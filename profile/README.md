@@ -7,11 +7,13 @@ Ce talk a été le [gagnant](https://twitter.com/parisjug/status/174521047761598
 [Paris JUG Academy](https://www.parisjug.org/events/2024/01-09-young-blood-11/) 2024.
 
 Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le
-[17 avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) dernier.
+[17 avril](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details) 2024 et le 11 mars 2025 à
+[Human Talks Paris](https://www.meetup.com/fr-FR/humantalks-paris/events/306459030/).
 
 <!-- TOC -->
 * [Paris JUG Academy](#paris-jug-academy)
 * [Devoxx France](#devoxx-france)
+* [Human Talks Paris](#human-talks-paris)
 * [Templates d'applications](#templates-dapplications)
   * [Templates Java 23](#templates-java-23)
   * [Templates Java 22](#templates-java-22)
@@ -34,6 +36,10 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 ### [![Vidéo](images/video-devoxx-france.png)](https://www.youtube.com/watch?v=pSZ21WoUmWc)
 
 ### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
+
+## Human Talks Paris
+
+### [Slides](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Templates d'applications
 
