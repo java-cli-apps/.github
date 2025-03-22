@@ -117,6 +117,6 @@ pour déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](htt
 
 ## Contact
 
-[<img height="35" src="images/linkedin.ico" title="LinkedIn" width="35"/>](https://www.linkedin.com/in/pyfourmond)
+🦋 [pyfourmond.bsky.social](https://bsky.app/profile/pyfourmond.bsky.social)
 
-[<img height="35" src="images/twitter.ico" title="Twitter / X" width="35"/>](https://twitter.com/grumpyf0x48)
+[<img height="35" src="images/linkedin.ico" title="LinkedIn" width="35"/>](https://www.linkedin.com/in/pyfourmond)
