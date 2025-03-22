@@ -56,7 +56,7 @@ Ils utilisent également la [JEP 458](https://openjdk.org/jeps/458) qui permet d
 
 #### Avec Java 23 et make
 
-<a href="https://asciinema.org/a/669372"><img src="images/basic-java-23-quickstart.gif" alt="Template d'application utilisant Java 23 et make" /></a>
+<a href="https://asciinema.org/a/669372"><img src="images/basic-java-23-quickstart.gif" /></a>
 
 #### Avec Java 23 et Gradle
 
