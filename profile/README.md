@@ -104,4 +104,4 @@ Le même exemple, mais utilisant [Java 22](https://github.com/java-cli-apps/java
 
 🦋 [pyfourmond.bsky.social](https://bsky.app/profile/pyfourmond.bsky.social)
 
-[<img height="35" src="images/linkedin.ico" title="LinkedIn" width="35"/>](https://linkedin.com/in/pyfourmond)
+[<img height="18" src="images/linkedin.ico" title="LinkedIn" width="18"/>](https://linkedin.com/in/pyfourmond) https://linkedin.com/in/pyfourmond
