@@ -1,6 +1,6 @@
 # :floppy_disk: Partagez simplement vos Java CLI Apps
 
-L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemple et templates d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT).
+L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemple et templates d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA).
 
 Il a été présenté à :
 
@@ -26,13 +26,13 @@ Il a été aussi le [gagnant](https://twitter.com/parisjug/status/17452104776159
 
 ## Paris JUG Academy
 
-### [Vidéo](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
+### [Vidéo](https://youtu.be/Disp1KJDKzA)
 
 ## Devoxx France
 
 ### Vidéo
 
-### [![Vidéo](images/video-devoxx-france.png)](https://youtube.com/watch?v=pSZ21WoUmWc)
+### [![Vidéo](images/video-devoxx-france.png)](https://youtu.be/pSZ21WoUmWc)
 
 ### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
 
