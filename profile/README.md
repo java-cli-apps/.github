@@ -39,7 +39,7 @@ Il a également été présenté à [Devoxx France](https://mobile.devoxx.com/ev
 
 ## Human Talks Paris
 
-### [Slides](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### [Slides](https://java-cli-apps.github.io/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Templates d'applications
 
