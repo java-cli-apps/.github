@@ -56,11 +56,11 @@ Ils utilisent également la [JEP 458](https://openjdk.org/jeps/458) qui permet d
 
 #### Avec Java 23 et make
 
-<a href="https://asciinema.org/a/669372" target="_blank"><img src="images/basic-java-23-quickstart.gif" /></a>
+<a href="https://asciinema.org/a/669372"><img src="images/basic-java-23-quickstart.gif" /></a>
 
 #### Avec Java 23 et Gradle
 
-<a href="https://asciinema.org/a/673868" target="_blank"><img src="images/java-23-quickstart.gif" /></a>
+<a href="https://asciinema.org/a/673868"><img src="images/java-23-quickstart.gif" /></a>
 
 ### Templates Java 22
 
@@ -70,19 +70,19 @@ Ces templates nécessitent d'utiliser Java 22 ou une version supérieure car ils
 
 Le template [basic-java-22-quickstart](https://github.com/java-cli-apps/basic-java-22-quickstart) permet de démarrer une nouvelle commande ligne avec Java 22 sans utiliser aucun système de build (autre que `make`).
 
-<a href="https://asciinema.org/a/667798" target="_blank"><img src="images/basic-java-22-quickstart.gif" /></a>
+<a href="https://asciinema.org/a/667798"><img src="images/basic-java-22-quickstart.gif" /></a>
 
 #### Avec Java 22 et Gradle
 
 Le template [java-22-quickstart](https://github.com/java-cli-apps/java-22-quickstart) permet de démarrer une nouvelle commande ligne avec Java 22 et Gradle.
 
-<a href="https://asciinema.org/a/667781" target="_blank"><img src="images/java-22-quickstart.gif" /></a>
+<a href="https://asciinema.org/a/667781"><img src="images/java-22-quickstart.gif" /></a>
 
 ### Template Java 11
 
 Le template [basic-java-quickstart](https://github.com/java-cli-apps/basic-java-quickstart) permet de démarrer une nouvelle commande ligne en Java sans utiliser aucun système de build (autre que `make`).
 
-<a href="https://asciinema.org/a/667780" target="_blank"><img src="images/basic-java-quickstart.gif" /></a>
+<a href="https://asciinema.org/a/667780"><img src="images/basic-java-quickstart.gif" /></a>
 
 Ce template nécessite d'utiliser Java 11 ou une version supérieure car il utilise la [JEP 330](https://openjdk.org/jeps/330) qui permet de lancer un fichier source sans le compiler préalablement.
 
