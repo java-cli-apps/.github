@@ -21,6 +21,7 @@ Il a été aussi le [gagnant](https://twitter.com/parisjug/status/17452104776159
   * [Exemple d'utilisation de la JEP 458](#exemple-dutilisation-de-la-jep-458)
   * [Exemple du talk](#exemple-du-talk)
   * [Exemple du talk avec Java 22](#exemple-du-talk-avec-java-22)
+* [Liens et ressources](#liens-et-ressources)
 * [Contact](#contact)
 <!-- TOC -->
 
@@ -99,6 +100,50 @@ L'exemple de code du talk qui utilise [Java 21](https://github.com/java-cli-apps
 ### Exemple du talk avec Java 22
 
 Le même exemple, mais utilisant [Java 22](https://github.com/java-cli-apps/java-cli-apps.github.io/blob/main/exemples/generate-data-22/README.md) pour déclarer chaque classe dans un fichier séparé grâce à la [JEP 458](https://openjdk.org/jeps/458).
+
+## Liens et ressources
+
+### JDK, Doc
+
+[dev.java: The Destination for Java Developers](https://dev.java)
+
+[jdk.java.net: Production and Early-Access OpenJDK Builds, from Oracle](https://jdk.java.net)
+
+[docs.oracle.com: The java Command](https://docs.oracle.com/en/java/javase/24/docs/specs/man/java.html)
+
+[docs.oracle.com: The Java Virtual Machine Instruction Set](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-6.html)
+
+### Sur la JEP 330
+
+[JEP 330: Launch Single-File Source-Code Programs](https://openjdk.org/jeps/330)
+
+[JEP 458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458)
+
+[Inside Java Newscast #63: Does Java 22 Kill Build Tools ?](https://inside.java/2024/02/15/newscast-63)
+
+[JDK Source Code: Handling Shebang](https://github.com/openjdk/jdk/blob/master/src/jdk.compiler/share/classes/com/sun/tools/javac/launcher/ProgramFileObject.java#L70)
+
+[The Go Cookbook: Running a file via a shebang line](https://golangcookbook.com/chapters/running/shebang)
+
+### JEPs qui simplifient Java
+
+[JEP 494: Module Import Declarations (Second Preview)](https://openjdk.org/jeps/494)
+
+[JEP 495: Simple Source Files and Instance Main Methods (Fourth Preview)](https://openjdk.org/jeps/495)
+
+### Outils, Articles, Sites
+
+[JBang: Use Java for scripting](https://www.jbang.dev)
+
+[Démarrer vos projets Java plus rapidement avec JBang](https://grumpyf0x48.org/demarrer-vos-projets-java-plus-rapidement-avec-jbang)
+
+[SDKMAN: The Software Development Kit Manager](https://sdkman.io)
+
+[The Java Version Almanac](https://javaalmanac.io)
+
+### Librairies
+
+[RecordArgs: A simple command-line argument parser for Java applications](https://github.com/nipafx/record-args)
 
 ## Contact
 
