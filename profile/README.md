@@ -2,12 +2,14 @@
 
 L'organisation [Java CLI Apps](https://github.com/java-cli-apps) héberge les slides, programmes d'exemple et templates d'application de mon talk [« :floppy_disk: Partagez simplement vos Java CLI Apps »](https://youtu.be/Disp1KJDKzA).
 
-Il a été présenté à :
+Ce talk a été le [gagnant](https://twitter.com/parisjug/status/1745210477615985117) de la [Paris JUG Academy](https://parisjug.org/events/2024/01-09-young-blood-11/) 2024.
+
+Il a également été présenté à :
 
 * [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le [17 avril 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details)
 * [Human Talks Paris](https://meetup.com/fr-FR/humantalks-paris/events/306459030/) le 11 mars 2025
 
-Il a été aussi le [gagnant](https://twitter.com/parisjug/status/1745210477615985117) de la [Paris JUG Academy](https://parisjug.org/events/2024/01-09-young-blood-11/) 2024.
+Et sera présenté à [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 Avril 2025.
 
 <!-- TOC -->
 * [Paris JUG Academy](#paris-jug-academy)
