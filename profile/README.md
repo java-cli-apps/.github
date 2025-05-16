@@ -9,7 +9,7 @@ Il a également été présenté à :
 * [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le [17 avril 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details)
 * [Human Talks Paris](https://meetup.com/fr-FR/humantalks-paris/events/306459030/) le 11 mars 2025
 
-Et sera présenté à [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 Avril 2025.
+Et sera présenté à [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 mai 2025.
 
 <!-- TOC -->
 * [Paris JUG Academy](#paris-jug-academy)
