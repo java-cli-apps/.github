@@ -135,13 +135,13 @@ Le même exemple, mais utilisant [Java 22](https://github.com/java-cli-apps/java
 
 ### Outils, Articles, Sites
 
-[JBang: Use Java for scripting](https://www.jbang.dev)
-
-[Démarrer vos projets Java plus rapidement avec JBang](https://grumpyf0x48.org/demarrer-vos-projets-java-plus-rapidement-avec-jbang)
+[The Java Version Almanac](https://javaalmanac.io)
 
 [SDKMAN: The Software Development Kit Manager](https://sdkman.io)
 
-[The Java Version Almanac](https://javaalmanac.io)
+[JBang: Use Java for scripting](https://www.jbang.dev)
+
+[Démarrer vos projets Java plus rapidement avec JBang](https://grumpyf0x48.org/demarrer-vos-projets-java-plus-rapidement-avec-jbang)
 
 ### Librairies
 
