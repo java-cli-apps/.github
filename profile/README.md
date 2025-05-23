@@ -8,13 +8,13 @@ Il a également été présenté à :
 
 * [Devoxx France](https://mobile.devoxx.com/events/devoxxfr2024/schedule) le [17 avril 2024](https://mobile.devoxx.com/events/devoxxfr2024/talks/36021/details)
 * [Human Talks Paris](https://meetup.com/fr-FR/humantalks-paris/events/306459030/) le 11 mars 2025
-
-Et sera présenté à [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 mai 2025.
+* [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 mai 2025
 
 <!-- TOC -->
 * [Paris JUG Academy](#paris-jug-academy)
 * [Devoxx France](#devoxx-france)
 * [Human Talks Paris](#human-talks-paris)
+* [Oracle Dev Days](#oracle-dev-days)
 * [Templates d'applications](#templates-dapplications)
   * [Templates Java 23](#templates-java-23)
   * [Templates Java 22](#templates-java-22)
@@ -41,7 +41,11 @@ Et sera présenté à [Oracle Dev Days](https://www.oracle.com/fr/developer/even
 
 ## Human Talks Paris
 
-### [Slides](https://java-cli-apps.github.io/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### [Slides](https://java-cli-apps.github.io/human_talks/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+
+## Oracle Dev Days
+
+### [Slides](https://java-cli-apps.github.io/oracle_dev_days/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Templates d'applications
 
