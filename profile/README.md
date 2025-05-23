@@ -10,6 +10,8 @@ Il a également été présenté à :
 * [Human Talks Paris](https://meetup.com/fr-FR/humantalks-paris/events/306459030/) le 11 mars 2025
 * [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour/#java) le 22 mai 2025
 
+# Sommaire :
+
 <!-- TOC -->
 * [Paris JUG Academy](#paris-jug-academy)
 * [Devoxx France](#devoxx-france)
