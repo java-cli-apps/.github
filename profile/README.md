@@ -39,7 +39,7 @@ Il a également été présenté à :
 
 ### [![Vidéo](images/video-devoxx-france.png)](https://youtu.be/pSZ21WoUmWc)
 
-### [Slides](https://speakerdeck.com/grumpyf0x48/partagez-simplement-vos-java-cli-apps)
+### [Slides](https://java-cli-apps.github.io/slides/devoxx_france/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Human Talks Paris
 
