@@ -43,11 +43,11 @@ Il a également été présenté à :
 
 ## Human Talks Paris
 
-### [Slides](https://java-cli-apps.github.io/human_talks/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### [Slides](https://java-cli-apps.github.io/slides/human_talks/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Oracle Dev Days
 
-### [Slides](https://java-cli-apps.github.io/oracle_dev_days/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### [Slides](https://java-cli-apps.github.io/slides/oracle_dev_days/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Templates d'applications
 
