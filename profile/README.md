@@ -13,10 +13,11 @@ Il a également été présenté à :
 # Sommaire :
 
 <!-- TOC -->
-* [Paris JUG Academy](#paris-jug-academy)
-* [Devoxx France](#devoxx-france)
-* [Human Talks Paris](#human-talks-paris)
-* [Oracle Dev Days](#oracle-dev-days)
+* [Présentations](#présentations)
+  * [Paris JUG Academy](#paris-jug-academy)
+  * [Devoxx France](#devoxx-france)
+  * [Human Talks Paris](#human-talks-paris)
+  * [Oracle Dev Days](#oracle-dev-days)
 * [Templates d'applications](#templates-dapplications)
   * [Templates Java 23](#templates-java-23)
   * [Templates Java 22](#templates-java-22)
@@ -29,25 +30,29 @@ Il a également été présenté à :
 * [Contact](#contact)
 <!-- TOC -->
 
-## Paris JUG Academy
+## Présentations
 
-### [Vidéo](https://youtu.be/Disp1KJDKzA)
+### Paris JUG Academy
 
-## Devoxx France
+#### [Vidéo](https://youtu.be/Disp1KJDKzA)
 
-### Vidéo
+### Devoxx France
 
-### [![Vidéo](images/video-devoxx-france.png)](https://youtu.be/pSZ21WoUmWc)
+#### Vidéo
 
-### [Slides](https://java-cli-apps.github.io/slides/devoxx_france/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+#### [![Vidéo](images/video-devoxx-france.png)](https://youtu.be/pSZ21WoUmWc)
 
-## Human Talks Paris
+#### [Slides](https://java-cli-apps.github.io/slides/devoxx_france/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
-### [Slides](https://java-cli-apps.github.io/slides/human_talks/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### Human Talks Paris
 
-## Oracle Dev Days
+#### [Slides](https://java-cli-apps.github.io/slides/human_talks/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
-### [Slides](https://java-cli-apps.github.io/slides/oracle_dev_days/Partagez_simplement_vos_Java_CLI_Apps.pdf)
+### Oracle Dev Days
+
+#### [Vidéo](https://www.youtube.com/watch?v=R9ONCJ6mQkA&list=PLg4b0rSMICPtcfg6G8iAxHPE0ZDf1tzuM)
+
+#### [Slides](https://java-cli-apps.github.io/slides/oracle_dev_days/Partagez_simplement_vos_Java_CLI_Apps.pdf)
 
 ## Templates d'applications
 
