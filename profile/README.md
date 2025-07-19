@@ -94,11 +94,13 @@ Le template [java-22-quickstart](https://github.com/java-cli-apps/java-22-quicks
 
 ### Template Java 11
 
-Le template [basic-java-quickstart](https://github.com/java-cli-apps/basic-java-quickstart) permet de démarrer une nouvelle commande ligne en Java sans utiliser aucun système de build (autre que `make`).
+Le template [basic-java-11-quickstart](https://github.com/java-cli-apps/basic-java-11-quickstart) permet de démarrer une nouvelle commande ligne en Java sans utiliser aucun système de build (autre que `make`).
 
 <a href="https://asciinema.org/a/667780"><img src="images/basic-java-quickstart.gif" /></a>
 
 Ce template nécessite d'utiliser Java 11 ou une version supérieure car il utilise la [JEP 330](https://openjdk.org/jeps/330) qui permet de lancer un fichier source sans le compiler préalablement.
+
+**Note:** Ce dépôt est maintenant archivé et ne sera plus mis à jour.
 
 ## Exemples de code
 
