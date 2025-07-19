@@ -1,4 +1,4 @@
-{"version": 2, "width": 186, "height": 11, "timestamp": 1721739051, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "basic-java-quickstart.asc"}
+{"version": 2, "width": 186, "height": 11, "timestamp": 1721739051, "idle_time_limit": 1.0, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "basic-java-11-quickstart.asc"}
 [0.004089, "o", "\r\n"]
 [0.005424, "o", "# Définir votre utilisateur GitHub\u001b[0m\r\n\r\n"]
 [0.005537, "o", "\u001b[32;1m❯\u001b[0m "]
@@ -51,7 +51,7 @@
 [3.188182, "o", "M"]
 [4.194633, "o", "\u001b[0m\r\n"]
 [4.194937, "o", "\r\n"]
-[4.199767, "o", "# Créer une application basic-java-cli-XXXX à partir du template https://github.com/java-cli-apps/basic-java-quickstart\u001b[0m\r\n\r\n"]
+[4.199767, "o", "# Créer une application basic-java-cli-XXXX à partir du template https://github.com/java-cli-apps/basic-java-11-quickstart\u001b[0m\r\n\r\n"]
 [4.200024, "o", "\u001b[32;1m❯\u001b[0m "]
 [5.207768, "o", "g"]
 [5.212702, "o", "h"]
