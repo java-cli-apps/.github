@@ -61,7 +61,7 @@ Il a aussi été présenté à :
 
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
-Deux templates sont fournis pour Java 23, l'un fonctionne avec `make` et l'autre utilise `Gradle`.  Il en est de même pour Java 22.
+Deux templates sont fournis pour Java 23, l'un utilise `make` et l'autre `Gradle`.  Il en est de même pour Java 22.
 
 De plus un dernier template existe pour les releases antérieures à Java 22, et qui utilise `make`.
 
