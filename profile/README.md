@@ -19,6 +19,7 @@ Il a aussi été présenté à :
   * [Human Talks Paris](#human-talks-paris)
   * [Oracle Dev Days](#oracle-dev-days)
 * [Templates d'applications](#templates-dapplications)
+  * [Template Java 25](#template-java-25)
   * [Templates Java 23](#templates-java-23)
   * [Templates Java 22](#templates-java-22)
   * [Template Java 11](#template-java-11)
@@ -56,11 +57,19 @@ Il a aussi été présenté à :
 
 ## Templates d'applications
 
+**Le template pour Java 25 sera bientôt disponible !**
+
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
 Deux templates sont fournis pour Java 23, l'un fonctionne avec `make` et l'autre utilise `Gradle`.  Il en est de même pour Java 22.
 
 De plus un dernier template existe pour les releases antérieures à Java 22, et qui utilise `make`.
+
+### Template Java 25
+
+Le template [basic-java-25-quickstart](https://github.com/java-cli-apps/basic-java-25-quickstart) utilise les JEPS
+[458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458), [511: Module Import Declarations](https://openjdk.org/jeps/511) et [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512)
+qui ne sont plus en preview dans Java 25.
 
 ### Templates Java 23
 
