@@ -68,8 +68,11 @@ De plus un dernier template existe pour les releases antérieures à Java 22, et
 ### Template Java 25
 
 Le template [basic-java-25-quickstart](https://github.com/java-cli-apps/basic-java-25-quickstart) utilise les JEPS
-[458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458), [511: Module Import Declarations](https://openjdk.org/jeps/511) et [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512)
-qui ne sont plus en preview dans Java 25.
+[458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458),
+[511: Module Import Declarations](https://openjdk.org/jeps/511) et
+[512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512).
+
+Les JEPs 511 et 512 ne sont plus en preview dans Java 25.
 
 ### Templates Java 23
 
