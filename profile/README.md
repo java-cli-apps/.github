@@ -57,7 +57,7 @@ Il a aussi été présenté à :
 
 ## Templates d'applications
 
-**Les templates pour Java 25 sont disponibles !**
+### Les templates pour Java 25 sont disponibles !
 
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
