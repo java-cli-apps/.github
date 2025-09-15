@@ -57,7 +57,7 @@ Il a aussi été présenté à :
 
 ## Templates d'applications
 
-**Le template pour Java 25 sera bientôt disponible !**
+**Les templates pour Java 25 sont disponibles !**
 
 Ces templates GitHub servent de base à la création d'une application comme expliqué dans le talk.
 
@@ -72,7 +72,11 @@ Le template [basic-java-25-quickstart](https://github.com/java-cli-apps/basic-ja
 [511: Module Import Declarations](https://openjdk.org/jeps/511) et
 [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512).
 
-Les JEPs 511 et 512 ne sont plus en preview dans Java 25.
+Le template [java-25-quickstart](https://github.com/java-cli-apps/java-25-quickstart) utilise les mêmes
+JEPs que le template [basic-java-25-quickstart](https://github.com/java-cli-apps/basic-java-25-quickstart)
+mais utilise `Gradle` au lieu de `make` pour la construction de l'application.
+
+_Note:_ Les JEPs 511 et 512 ne sont plus en preview dans Java 25.
 
 ### Templates Java 23
 
